@@ -2,7 +2,7 @@
 # Overview of the numpy.random Python package
 ***
 
-This repository contains an overview of the matplotlib.pyplot package in a Jupyter notebook
+This repository contains an overview of the numpy.random Python package in a Jupyter notebook
 
 ## You can view the notebook in static form by clicking the badge below
 

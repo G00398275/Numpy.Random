@@ -2,6 +2,13 @@
 # Overview of the numpy.random Python package
 ***
 
+## Author: Ross Downey (G00398275)
+
+## Programming for Data Analysis 2021
+
+## Lecturer: Brian McGinley
+***
+
 This repository contains an overview of the numpy.random Python package in a Jupyter notebook
 
 ## You can view the notebook in static form by clicking the badge below

@@ -6,10 +6,12 @@
 
 ## Programming for Data Analysis 2021
 
-## Lecturer: Brian McGinley
+## Lecturer:  Dr. Brian McGinley
 ***
 
-This repository contains an overview of the numpy.random Python package in a Jupyter notebook
+This repository contains an overview of the numpy.random Python package in a Jupyter notebook. The notebook contains an explananation of the package. It also outlines the "Simple Random Data" and "Permutations" functions with coded examples.  
+In addition to this five example distributions (Normal, Uniform, Binomial, Pareto and Triangular) have been outlined, including their use and purpose, using coded examples and plots. Finally, the use of seeds in generating random numbers has been covered, including discussions pertaining to the Permuted Congruential Generator (PCG64) and Mersenne-Twister seed methods.  
+
 
 ## You can view the notebook in static form by clicking the badge below
 
